@@ -1,0 +1,434 @@
+2022-03-30 23:03:10.6147|0|DEBUG|ApiFlock.Program|Application Started 
+2022-03-30 23:03:10.6147|0|DEBUG|ApiFlock.Program|Application Started |url: |action: |ApiFlock.Program.Main
+2022-03-30 23:03:11.9536|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-03-30 23:03:11.9536|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-03-30 23:03:12.0068|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-03-30 23:03:12.0068|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-03-30 23:03:12.0133|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Source\Repos\Flock_Test\Flock_Test 
+2022-03-30 23:03:12.0133|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Source\Repos\Flock_Test\Flock_Test |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-03-30 23:03:30.5844|0|INFO|ApiFlock.Controllers.LoginController|Start Login ApiFlock.Controllers.LoginController: {"email":"user@example.com","password":"string"} 
+2022-03-30 23:03:30.5844|0|INFO|ApiFlock.Controllers.LoginController|Start Login ApiFlock.Controllers.LoginController: {"email":"user@example.com","password":"string"} |url: https://localhost/Login|action: Login|ApiFlock.Controllers.LoginController.Login
+2022-03-30 23:03:30.6040|0|INFO|ApiFlock.Controllers.LoginController|Result PostComplete ApiFlock.Controllers.LoginController: {"token":null,"expirate_date":null} 
+2022-03-30 23:03:30.6040|0|INFO|ApiFlock.Controllers.LoginController|Result PostComplete ApiFlock.Controllers.LoginController: {"token":null,"expirate_date":null} |url: https://localhost/Login|action: Login|ApiFlock.Controllers.LoginController.Login
+2022-03-30 23:03:44.0103|0|INFO|ApiFlock.Controllers.LoginController|Start Login ApiFlock.Controllers.LoginController: {"email":"test@test.com","password":"Test1234!"} 
+2022-03-30 23:03:44.0103|0|INFO|ApiFlock.Controllers.LoginController|Start Login ApiFlock.Controllers.LoginController: {"email":"test@test.com","password":"Test1234!"} |url: https://localhost/Login|action: Login|ApiFlock.Controllers.LoginController.Login
+2022-03-30 23:03:44.0103|0|INFO|ApiFlock.Controllers.LoginController|Result PostComplete ApiFlock.Controllers.LoginController: {"token":null,"expirate_date":null} 
+2022-03-30 23:03:44.0103|0|INFO|ApiFlock.Controllers.LoginController|Result PostComplete ApiFlock.Controllers.LoginController: {"token":null,"expirate_date":null} |url: https://localhost/Login|action: Login|ApiFlock.Controllers.LoginController.Login
+2022-03-30 23:03:51.3976|0|INFO|ApiFlock.Controllers.LoginController|Start Login ApiFlock.Controllers.LoginController: {"email":"test@test.com.ar","password":"Test1234!"} 
+2022-03-30 23:03:51.3976|0|INFO|ApiFlock.Controllers.LoginController|Start Login ApiFlock.Controllers.LoginController: {"email":"test@test.com.ar","password":"Test1234!"} |url: https://localhost/Login|action: Login|ApiFlock.Controllers.LoginController.Login
+2022-03-30 23:03:55.2730|0|INFO|ApiFlock.Controllers.LoginController|Result PostComplete ApiFlock.Controllers.LoginController: {"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InRlc3RAdGVzdC5jb20uYXIiLCJtaVZhbG9yIjoiTG8gcXVlIHlvIHF1aWVyYSIsImp0aSI6IjMxYzJmNTQwLTYzODAtNDQ5YS1iMTJjLWY1NGE0ZTIzZDc1NyIsImV4cCI6MTY0ODY5NTgzMSwiaXNzIjoieW91cmRvbWFpbi5jb20iLCJhdWQiOiJ5b3VyZG9tYWluLmNvbSJ9.WgP3z49V2kuPSiCSoCyFYbTcbBLIT4Q2eO8doR1banA","expirate_date":"31/3/2022 03:03:51"} 
+2022-03-30 23:03:55.2730|0|INFO|ApiFlock.Controllers.LoginController|Result PostComplete ApiFlock.Controllers.LoginController: {"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InRlc3RAdGVzdC5jb20uYXIiLCJtaVZhbG9yIjoiTG8gcXVlIHlvIHF1aWVyYSIsImp0aSI6IjMxYzJmNTQwLTYzODAtNDQ5YS1iMTJjLWY1NGE0ZTIzZDc1NyIsImV4cCI6MTY0ODY5NTgzMSwiaXNzIjoieW91cmRvbWFpbi5jb20iLCJhdWQiOiJ5b3VyZG9tYWluLmNvbSJ9.WgP3z49V2kuPSiCSoCyFYbTcbBLIT4Q2eO8doR1banA","expirate_date":"31/3/2022 03:03:51"} |url: https://localhost/Login|action: Login|ApiFlock.Controllers.LoginController.Login
+2022-03-31 08:42:58.6635|0|DEBUG|ApiFlock.Program|Application Started 
+2022-03-31 08:42:58.6635|0|DEBUG|ApiFlock.Program|Application Started |url: |action: |ApiFlock.Program.Main
+2022-03-31 08:43:00.6907|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-03-31 08:43:00.6907|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-03-31 08:43:00.7454|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-03-31 08:43:00.7454|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-03-31 08:43:00.7571|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Source\ApiFlock\ApiFlock 
+2022-03-31 08:43:00.7571|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Source\ApiFlock\ApiFlock |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-03-31 08:43:39.3240|0|INFO|ApiFlock.Controllers.LoginController|Start Login... 
+2022-03-31 08:43:39.3240|0|INFO|ApiFlock.Controllers.LoginController|Start Login... |url: https://localhost/Login|action: Login|ApiFlock.Controllers.LoginController.Login
+2022-03-31 08:43:43.6525|0|INFO|ApiFlock.Controllers.LoginController|Result Login ApiFlock.Controllers.LoginController: {"token":null,"expirate_date":null} 
+2022-03-31 08:43:43.6525|0|INFO|ApiFlock.Controllers.LoginController|Result Login ApiFlock.Controllers.LoginController: {"token":null,"expirate_date":null} |url: https://localhost/Login|action: Login|ApiFlock.Controllers.LoginController.Login
+2022-03-31 08:44:02.9712|0|INFO|ApiFlock.Controllers.LoginController|Start Login... 
+2022-03-31 08:44:02.9712|0|INFO|ApiFlock.Controllers.LoginController|Start Login... |url: https://localhost/Login|action: Login|ApiFlock.Controllers.LoginController.Login
+2022-03-31 08:44:03.0899|0|INFO|ApiFlock.Controllers.LoginController|Result Login ApiFlock.Controllers.LoginController: {"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InRlc3RAdGVzdC5jb20uYXIiLCJqdGkiOiI3MGQ2YWU3Ny1lNjJmLTRkNWEtYTUzYi01NTRlNGE0MjY3ZDUiLCJleHAiOjE2NDg3MzA2NDIsImlzcyI6IkZsb2NrLmNvbSIsImF1ZCI6IkZsb2NrLmNvbSJ9.u2s9HRj6fpl19z-ybRn1HsfRCdcmc6EDcYYIKUKtMlU","expirate_date":"31/3/2022 12:44:02"} 
+2022-03-31 08:44:03.0899|0|INFO|ApiFlock.Controllers.LoginController|Result Login ApiFlock.Controllers.LoginController: {"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InRlc3RAdGVzdC5jb20uYXIiLCJqdGkiOiI3MGQ2YWU3Ny1lNjJmLTRkNWEtYTUzYi01NTRlNGE0MjY3ZDUiLCJleHAiOjE2NDg3MzA2NDIsImlzcyI6IkZsb2NrLmNvbSIsImF1ZCI6IkZsb2NrLmNvbSJ9.u2s9HRj6fpl19z-ybRn1HsfRCdcmc6EDcYYIKUKtMlU","expirate_date":"31/3/2022 12:44:02"} |url: https://localhost/Login|action: Login|ApiFlock.Controllers.LoginController.Login
+2022-03-31 08:44:25.6564|0|INFO|ApiFlock.Controllers.ProvinciaController|Start GetData... 
+2022-03-31 08:44:25.6564|0|INFO|ApiFlock.Controllers.ProvinciaController|Start GetData... |url: https://localhost/GetProvinceLocalization/a|action: GetData|ApiFlock.Controllers.ProvinciaController.GetData
+2022-03-31 08:44:39.7174|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. Newtonsoft.Json.JsonSerializationException: Error getting value from 'Result' on 'System.Threading.Tasks.Task`1[ApiFlock.Dtos.ProvinciaResponseDto]'.
+ ---> System.AggregateException: One or more errors occurred. (An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.)
+ ---> System.InvalidOperationException: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+   at System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.CheckRequestBeforeSend(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetAsync(String requestUri)
+   at ApiFlock.Service.ProvinciaService.GetLocation(String nombre) in C:\Source\ApiFlock\ApiFlock\Service\ProvinciaService.cs:line 26
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at Newtonsoft.Json.Serialization.ExpressionValueProvider.GetValue(Object target)
+   --- End of inner exception stack trace ---
+   at Newtonsoft.Json.Serialization.ExpressionValueProvider.GetValue(Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeValue(JsonWriter writer, Object value, JsonContract valueContract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   at Newtonsoft.Json.JsonConvert.SerializeObject(Object value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   at ApiFlock.Controllers.ProvinciaController.GetData(String nombre) in C:\Source\ApiFlock\ApiFlock\Controllers\ProvinciaController.cs:line 29
+   at lambda_method11(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-03-31 08:44:39.7174|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. Newtonsoft.Json.JsonSerializationException: Error getting value from 'Result' on 'System.Threading.Tasks.Task`1[ApiFlock.Dtos.ProvinciaResponseDto]'.
+ ---> System.AggregateException: One or more errors occurred. (An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.)
+ ---> System.InvalidOperationException: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+   at System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.CheckRequestBeforeSend(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetAsync(String requestUri)
+   at ApiFlock.Service.ProvinciaService.GetLocation(String nombre) in C:\Source\ApiFlock\ApiFlock\Service\ProvinciaService.cs:line 26
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at Newtonsoft.Json.Serialization.ExpressionValueProvider.GetValue(Object target)
+   --- End of inner exception stack trace ---
+   at Newtonsoft.Json.Serialization.ExpressionValueProvider.GetValue(Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeValue(JsonWriter writer, Object value, JsonContract valueContract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   at Newtonsoft.Json.JsonConvert.SerializeObject(Object value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   at ApiFlock.Controllers.ProvinciaController.GetData(String nombre) in C:\Source\ApiFlock\ApiFlock\Controllers\ProvinciaController.cs:line 29
+   at lambda_method11(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)|url: https://localhost/GetProvinceLocalization/a|action: GetData|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke
+2022-03-31 08:44:42.4338|0|INFO|ApiFlock.Controllers.ProvinciaController|Start GetData... 
+2022-03-31 08:44:42.4338|0|INFO|ApiFlock.Controllers.ProvinciaController|Start GetData... |url: https://localhost/GetProvinceLocalization/a|action: GetData|ApiFlock.Controllers.ProvinciaController.GetData
+2022-03-31 08:45:02.6547|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. Newtonsoft.Json.JsonSerializationException: Error getting value from 'Result' on 'System.Threading.Tasks.Task`1[ApiFlock.Dtos.ProvinciaResponseDto]'.
+ ---> System.AggregateException: One or more errors occurred. (An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.)
+ ---> System.InvalidOperationException: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+   at System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.CheckRequestBeforeSend(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetAsync(String requestUri)
+   at ApiFlock.Service.ProvinciaService.GetLocation(String nombre) in C:\Source\ApiFlock\ApiFlock\Service\ProvinciaService.cs:line 26
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at Newtonsoft.Json.Serialization.ExpressionValueProvider.GetValue(Object target)
+   --- End of inner exception stack trace ---
+   at Newtonsoft.Json.Serialization.ExpressionValueProvider.GetValue(Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeValue(JsonWriter writer, Object value, JsonContract valueContract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   at Newtonsoft.Json.JsonConvert.SerializeObject(Object value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   at ApiFlock.Controllers.ProvinciaController.GetData(String nombre) in C:\Source\ApiFlock\ApiFlock\Controllers\ProvinciaController.cs:line 29
+   at lambda_method11(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-03-31 08:45:02.6547|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. Newtonsoft.Json.JsonSerializationException: Error getting value from 'Result' on 'System.Threading.Tasks.Task`1[ApiFlock.Dtos.ProvinciaResponseDto]'.
+ ---> System.AggregateException: One or more errors occurred. (An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.)
+ ---> System.InvalidOperationException: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+   at System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.CheckRequestBeforeSend(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetAsync(String requestUri)
+   at ApiFlock.Service.ProvinciaService.GetLocation(String nombre) in C:\Source\ApiFlock\ApiFlock\Service\ProvinciaService.cs:line 26
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at Newtonsoft.Json.Serialization.ExpressionValueProvider.GetValue(Object target)
+   --- End of inner exception stack trace ---
+   at Newtonsoft.Json.Serialization.ExpressionValueProvider.GetValue(Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeValue(JsonWriter writer, Object value, JsonContract valueContract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   at Newtonsoft.Json.JsonConvert.SerializeObject(Object value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   at ApiFlock.Controllers.ProvinciaController.GetData(String nombre) in C:\Source\ApiFlock\ApiFlock\Controllers\ProvinciaController.cs:line 29
+   at lambda_method11(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)|url: https://localhost/GetProvinceLocalization/a|action: GetData|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke
+2022-03-31 08:45:04.9358|0|INFO|ApiFlock.Controllers.ProvinciaController|Start GetData... 
+2022-03-31 08:45:04.9358|0|INFO|ApiFlock.Controllers.ProvinciaController|Start GetData... |url: https://localhost/GetProvinceLocalization/a|action: GetData|ApiFlock.Controllers.ProvinciaController.GetData
+2022-03-31 08:45:31.3371|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. Newtonsoft.Json.JsonSerializationException: Self referencing loop detected for property 'Target' with type 'System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[ApiFlock.Dtos.ProvinciaResponseDto,System.Runtime.CompilerServices.IAsyncStateMachine]'. Path 'MoveNextAction'.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CheckForCircularReference(JsonWriter writer, Object value, JsonProperty property, JsonContract contract, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeValue(JsonWriter writer, Object value, JsonContract valueContract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeValue(JsonWriter writer, Object value, JsonContract valueContract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   at Newtonsoft.Json.JsonConvert.SerializeObject(Object value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   at ApiFlock.Controllers.ProvinciaController.GetData(String nombre) in C:\Source\ApiFlock\ApiFlock\Controllers\ProvinciaController.cs:line 29
+   at lambda_method11(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-03-31 08:45:31.3371|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. Newtonsoft.Json.JsonSerializationException: Self referencing loop detected for property 'Target' with type 'System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[ApiFlock.Dtos.ProvinciaResponseDto,System.Runtime.CompilerServices.IAsyncStateMachine]'. Path 'MoveNextAction'.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CheckForCircularReference(JsonWriter writer, Object value, JsonProperty property, JsonContract contract, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeValue(JsonWriter writer, Object value, JsonContract valueContract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeValue(JsonWriter writer, Object value, JsonContract valueContract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   at Newtonsoft.Json.JsonConvert.SerializeObject(Object value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   at ApiFlock.Controllers.ProvinciaController.GetData(String nombre) in C:\Source\ApiFlock\ApiFlock\Controllers\ProvinciaController.cs:line 29
+   at lambda_method11(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)|url: https://localhost/GetProvinceLocalization/a|action: GetData|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke
+2022-03-31 08:45:33.7145|0|INFO|ApiFlock.Controllers.ProvinciaController|Start GetData... 
+2022-03-31 08:45:33.7145|0|INFO|ApiFlock.Controllers.ProvinciaController|Start GetData... |url: https://localhost/GetProvinceLocalization/a|action: GetData|ApiFlock.Controllers.ProvinciaController.GetData
+2022-03-31 09:08:22.1271|0|DEBUG|ApiFlock.Program|Application Started 
+2022-03-31 09:08:22.1271|0|DEBUG|ApiFlock.Program|Application Started |url: |action: |ApiFlock.Program.Main
+2022-03-31 09:08:23.2833|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-03-31 09:08:23.2833|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-03-31 09:08:23.3236|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-03-31 09:08:23.3236|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-03-31 09:08:23.3236|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Source\ApiFlock\ApiFlock 
+2022-03-31 09:08:23.3236|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Source\ApiFlock\ApiFlock |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-03-31 09:10:24.4299|0|INFO|ApiFlock.Controllers.ProvinciaController|Start GetData... 
+2022-03-31 09:10:24.4299|0|INFO|ApiFlock.Controllers.ProvinciaController|Start GetData... |url: https://localhost/GetProvinceLocalization/a|action: GetData|ApiFlock.Controllers.ProvinciaController.GetData
+2022-03-31 09:10:47.9514|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. Newtonsoft.Json.JsonSerializationException: Self referencing loop detected for property 'Task' with type 'System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[ApiFlock.Dtos.ProvinciaResponseDto,System.Runtime.CompilerServices.IAsyncStateMachine]'. Path 'StateMachine.<>t__builder'.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CheckForCircularReference(JsonWriter writer, Object value, JsonProperty property, JsonContract contract, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeValue(JsonWriter writer, Object value, JsonContract valueContract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeValue(JsonWriter writer, Object value, JsonContract valueContract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeValue(JsonWriter writer, Object value, JsonContract valueContract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   at Newtonsoft.Json.JsonConvert.SerializeObject(Object value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   at ApiFlock.Controllers.ProvinciaController.GetData(String nombre) in C:\Source\ApiFlock\ApiFlock\Controllers\ProvinciaController.cs:line 29
+   at lambda_method2(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-03-31 09:10:47.9514|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. Newtonsoft.Json.JsonSerializationException: Self referencing loop detected for property 'Task' with type 'System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[ApiFlock.Dtos.ProvinciaResponseDto,System.Runtime.CompilerServices.IAsyncStateMachine]'. Path 'StateMachine.<>t__builder'.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CheckForCircularReference(JsonWriter writer, Object value, JsonProperty property, JsonContract contract, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeValue(JsonWriter writer, Object value, JsonContract valueContract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeValue(JsonWriter writer, Object value, JsonContract valueContract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeValue(JsonWriter writer, Object value, JsonContract valueContract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   at Newtonsoft.Json.JsonConvert.SerializeObject(Object value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   at ApiFlock.Controllers.ProvinciaController.GetData(String nombre) in C:\Source\ApiFlock\ApiFlock\Controllers\ProvinciaController.cs:line 29
+   at lambda_method2(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)|url: https://localhost/GetProvinceLocalization/a|action: GetData|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke
+2022-03-31 09:11:22.1676|0|INFO|ApiFlock.Controllers.ProvinciaController|Start GetData... 
+2022-03-31 09:11:22.1676|0|INFO|ApiFlock.Controllers.ProvinciaController|Start GetData... |url: https://localhost/GetProvinceLocalization/a|action: GetData|ApiFlock.Controllers.ProvinciaController.GetData
+2022-03-31 09:26:12.9650|0|DEBUG|ApiFlock.Program|Application Started 
+2022-03-31 09:26:12.9650|0|DEBUG|ApiFlock.Program|Application Started |url: |action: |ApiFlock.Program.Main
+2022-03-31 09:26:13.8391|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-03-31 09:26:13.8391|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-03-31 09:26:13.9003|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-03-31 09:26:13.9003|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-03-31 09:26:13.9003|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Source\ApiFlock\ApiFlock 
+2022-03-31 09:26:13.9003|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Source\ApiFlock\ApiFlock |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-03-31 09:26:20.3394|0|INFO|ApiFlock.Controllers.ProvinciaController|Start GetData... 
+2022-03-31 09:26:20.3394|0|INFO|ApiFlock.Controllers.ProvinciaController|Start GetData... |url: https://localhost/GetProvinceLocalization/a|action: GetData|ApiFlock.Controllers.ProvinciaController.GetData
+2022-03-31 09:26:20.8610|0|INFO|ApiFlock.Controllers.ProvinciaController|Result GetData ApiFlock.Controllers.ProvinciaController: {"Nombre":null,"Latitud":null,"Longitud":null} 
+2022-03-31 09:26:20.8610|0|INFO|ApiFlock.Controllers.ProvinciaController|Result GetData ApiFlock.Controllers.ProvinciaController: {"Nombre":null,"Latitud":null,"Longitud":null} |url: https://localhost/GetProvinceLocalization/a|action: GetData|ApiFlock.Controllers.ProvinciaController.GetData
+2022-03-31 09:27:14.6926|0|INFO|ApiFlock.Controllers.ProvinciaController|Start GetData... 
+2022-03-31 09:27:14.6926|0|INFO|ApiFlock.Controllers.ProvinciaController|Start GetData... |url: https://localhost/GetProvinceLocalization/Buenos|action: GetData|ApiFlock.Controllers.ProvinciaController.GetData
+2022-03-31 09:27:14.8193|0|INFO|ApiFlock.Controllers.ProvinciaController|Result GetData ApiFlock.Controllers.ProvinciaController: {"Nombre":"Buenos Aires","Latitud":"-36,6769415180527","Longitud":"-60,5588319815719"} 
+2022-03-31 09:27:14.8193|0|INFO|ApiFlock.Controllers.ProvinciaController|Result GetData ApiFlock.Controllers.ProvinciaController: {"Nombre":"Buenos Aires","Latitud":"-36,6769415180527","Longitud":"-60,5588319815719"} |url: https://localhost/GetProvinceLocalization/Buenos|action: GetData|ApiFlock.Controllers.ProvinciaController.GetData
+2022-03-31 09:27:20.9372|0|INFO|ApiFlock.Controllers.ProvinciaController|Start GetData... 
+2022-03-31 09:27:20.9372|0|INFO|ApiFlock.Controllers.ProvinciaController|Start GetData... |url: https://localhost/GetProvinceLocalization/Santa|action: GetData|ApiFlock.Controllers.ProvinciaController.GetData
+2022-03-31 09:27:21.0380|0|INFO|ApiFlock.Controllers.ProvinciaController|Result GetData ApiFlock.Controllers.ProvinciaController: {"Nombre":"Santa Cruz","Latitud":"-48,8154851827063","Longitud":"-69,9557621671973"} 
+2022-03-31 09:27:21.0380|0|INFO|ApiFlock.Controllers.ProvinciaController|Result GetData ApiFlock.Controllers.ProvinciaController: {"Nombre":"Santa Cruz","Latitud":"-48,8154851827063","Longitud":"-69,9557621671973"} |url: https://localhost/GetProvinceLocalization/Santa|action: GetData|ApiFlock.Controllers.ProvinciaController.GetData
+2022-03-31 09:29:16.3584|0|DEBUG|ApiFlock.Program|Application Started 
+2022-03-31 09:29:16.3584|0|DEBUG|ApiFlock.Program|Application Started |url: |action: |ApiFlock.Program.Main
+2022-03-31 09:29:17.1863|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-03-31 09:29:17.1863|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-03-31 09:29:17.2100|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-03-31 09:29:17.2100|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-03-31 09:29:17.2100|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Source\ApiFlock\ApiFlock 
+2022-03-31 09:29:17.2100|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Source\ApiFlock\ApiFlock |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-03-31 09:29:24.2504|0|INFO|ApiFlock.Controllers.ProvinciaController|Start GetData... 
+2022-03-31 09:29:24.2504|0|INFO|ApiFlock.Controllers.ProvinciaController|Start GetData... |url: https://localhost/GetProvinceLocalization/santa|action: GetData|ApiFlock.Controllers.ProvinciaController.GetData
+2022-03-31 09:43:39.3034|0|DEBUG|ApiFlock.Program|Application Started 
+2022-03-31 09:43:39.3034|0|DEBUG|ApiFlock.Program|Application Started |url: |action: |ApiFlock.Program.Main
+2022-03-31 09:43:40.1592|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-03-31 09:43:40.1592|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-03-31 09:43:40.1870|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-03-31 09:43:40.1870|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-03-31 09:43:40.1870|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Source\ApiFlock\ApiFlock 
+2022-03-31 09:43:40.1870|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Source\ApiFlock\ApiFlock |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-03-31 09:44:00.1018|0|INFO|ApiFlock.Controllers.ProvinciaController|Start GetData... 
+2022-03-31 09:44:00.1018|0|INFO|ApiFlock.Controllers.ProvinciaController|Start GetData... |url: https://localhost/GetProvinceLocalization/santa|action: GetData|ApiFlock.Controllers.ProvinciaController.GetData
+2022-03-31 09:44:03.7742|0|INFO|ApiFlock.Controllers.ProvinciaController|Result GetData ApiFlock.Controllers.ProvinciaController: [{"Nombre":"Santa Cruz","Latitud":"-48,8154851827063","Longitud":"-69,9557621671973"},{"Nombre":"Santa Fe","Latitud":"-30,7069271588117","Longitud":"-60,9498369430241"}] 
+2022-03-31 09:44:03.7742|0|INFO|ApiFlock.Controllers.ProvinciaController|Result GetData ApiFlock.Controllers.ProvinciaController: [{"Nombre":"Santa Cruz","Latitud":"-48,8154851827063","Longitud":"-69,9557621671973"},{"Nombre":"Santa Fe","Latitud":"-30,7069271588117","Longitud":"-60,9498369430241"}] |url: https://localhost/GetProvinceLocalization/santa|action: GetData|ApiFlock.Controllers.ProvinciaController.GetData
+2022-03-31 09:44:58.8263|0|INFO|ApiFlock.Controllers.ProvinciaController|Start GetData... 
+2022-03-31 09:44:58.8263|0|INFO|ApiFlock.Controllers.ProvinciaController|Start GetData... |url: https://localhost/GetProvinceLocalization/a|action: GetData|ApiFlock.Controllers.ProvinciaController.GetData
+2022-03-31 09:45:01.1626|0|INFO|ApiFlock.Controllers.ProvinciaController|Result GetData ApiFlock.Controllers.ProvinciaController: [] 
+2022-03-31 09:45:01.1626|0|INFO|ApiFlock.Controllers.ProvinciaController|Result GetData ApiFlock.Controllers.ProvinciaController: [] |url: https://localhost/GetProvinceLocalization/a|action: GetData|ApiFlock.Controllers.ProvinciaController.GetData
+2022-03-31 09:47:51.6909|0|DEBUG|ApiFlock.Program|Application Started 
+2022-03-31 09:47:51.6909|0|DEBUG|ApiFlock.Program|Application Started |url: |action: |ApiFlock.Program.Main
+2022-03-31 09:47:52.5315|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-03-31 09:47:52.5315|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-03-31 09:47:52.5507|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-03-31 09:47:52.5507|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-03-31 09:47:52.5545|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Source\ApiFlock\ApiFlock 
+2022-03-31 09:47:52.5545|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Source\ApiFlock\ApiFlock |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-03-31 09:48:53.5689|0|INFO|ApiFlock.Controllers.ProvinciaController|Start GetData... 
+2022-03-31 09:48:53.5689|0|INFO|ApiFlock.Controllers.ProvinciaController|Start GetData... |url: https://localhost/GetProvinceLocalization/santa|action: GetData|ApiFlock.Controllers.ProvinciaController.GetData
+2022-03-31 09:48:53.9748|0|INFO|ApiFlock.Controllers.ProvinciaController|Result GetData ApiFlock.Controllers.ProvinciaController: [{"Nombre":"Santa Cruz","Latitud":"-48,8154851827063","Longitud":"-69,9557621671973"},{"Nombre":"Santa Fe","Latitud":"-30,7069271588117","Longitud":"-60,9498369430241"}] 
+2022-03-31 09:48:53.9748|0|INFO|ApiFlock.Controllers.ProvinciaController|Result GetData ApiFlock.Controllers.ProvinciaController: [{"Nombre":"Santa Cruz","Latitud":"-48,8154851827063","Longitud":"-69,9557621671973"},{"Nombre":"Santa Fe","Latitud":"-30,7069271588117","Longitud":"-60,9498369430241"}] |url: https://localhost/GetProvinceLocalization/santa|action: GetData|ApiFlock.Controllers.ProvinciaController.GetData
+2022-03-31 10:19:52.4987|0|DEBUG|ApiFlock.Program|Application Started 
+2022-03-31 10:19:52.4987|0|DEBUG|ApiFlock.Program|Application Started |url: |action: |ApiFlock.Program.Main
+2022-03-31 10:19:53.4680|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-03-31 10:19:53.4680|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-03-31 10:19:53.4963|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-03-31 10:19:53.4963|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-03-31 10:19:53.4963|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Source\ApiFlock\ApiFlock 
+2022-03-31 10:19:53.4963|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Source\ApiFlock\ApiFlock |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-03-31 10:21:05.4530|0|INFO|ApiFlock.Controllers.ProvinciaController|Start GetData... 
+2022-03-31 10:21:05.4530|0|INFO|ApiFlock.Controllers.ProvinciaController|Start GetData... |url: https://localhost/GetProvinceLocalization/a|action: GetData|ApiFlock.Controllers.ProvinciaController.GetData
+2022-03-31 10:21:10.6268|0|INFO|ApiFlock.Controllers.ProvinciaController|Result GetData ApiFlock.Controllers.ProvinciaController: [] 
+2022-03-31 10:21:10.6268|0|INFO|ApiFlock.Controllers.ProvinciaController|Result GetData ApiFlock.Controllers.ProvinciaController: [] |url: https://localhost/GetProvinceLocalization/a|action: GetData|ApiFlock.Controllers.ProvinciaController.GetData
+2022-03-31 10:21:17.3242|0|INFO|ApiFlock.Controllers.ProvinciaController|Start GetData... 
+2022-03-31 10:21:17.3242|0|INFO|ApiFlock.Controllers.ProvinciaController|Start GetData... |url: https://localhost/GetProvinceLocalization/santa|action: GetData|ApiFlock.Controllers.ProvinciaController.GetData
+2022-03-31 10:21:44.2419|0|INFO|ApiFlock.Controllers.ProvinciaController|Result GetData ApiFlock.Controllers.ProvinciaController: [{"Nombre":"Santa Cruz","Latitud":"-48,8154851827063","Longitud":"-69,9557621671973"},{"Nombre":"Santa Fe","Latitud":"-30,7069271588117","Longitud":"-60,9498369430241"}] 
+2022-03-31 10:21:44.2419|0|INFO|ApiFlock.Controllers.ProvinciaController|Result GetData ApiFlock.Controllers.ProvinciaController: [{"Nombre":"Santa Cruz","Latitud":"-48,8154851827063","Longitud":"-69,9557621671973"},{"Nombre":"Santa Fe","Latitud":"-30,7069271588117","Longitud":"-60,9498369430241"}] |url: https://localhost/GetProvinceLocalization/santa|action: GetData|ApiFlock.Controllers.ProvinciaController.GetData
+2022-03-31 10:21:52.7947|0|INFO|ApiFlock.Controllers.ProvinciaController|Start GetData... 
+2022-03-31 10:21:52.7947|0|INFO|ApiFlock.Controllers.ProvinciaController|Start GetData... |url: https://localhost/GetProvinceLocalization/entre|action: GetData|ApiFlock.Controllers.ProvinciaController.GetData
+2022-03-31 10:21:52.9012|0|INFO|ApiFlock.Controllers.ProvinciaController|Result GetData ApiFlock.Controllers.ProvinciaController: [{"Nombre":"Entre Ríos","Latitud":"-32,0588735436448","Longitud":"-59,2014475514635"}] 
+2022-03-31 10:21:52.9012|0|INFO|ApiFlock.Controllers.ProvinciaController|Result GetData ApiFlock.Controllers.ProvinciaController: [{"Nombre":"Entre Ríos","Latitud":"-32,0588735436448","Longitud":"-59,2014475514635"}] |url: https://localhost/GetProvinceLocalization/entre|action: GetData|ApiFlock.Controllers.ProvinciaController.GetData
